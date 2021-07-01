@@ -29,4 +29,4 @@ Procedures taken to solve the homework
     Connect all links together
     Plot figure
     
-    ![alt text](https://github.com/KaiLiOng/Robotertechnik_SS21/blob/Media/DHApp.jpeg?raw=true)
+    ![alt text](https://github.com/KaiLiOng/Robotertechnik_SS21/blob/main/Media/DHApp.JPG)
