@@ -394,7 +394,7 @@ classdef MAIN_GUI < matlab.apps.AppBase
             % Create Image
             app.Image = uiimage(app.Panel_4);
             app.Image.Position = [38 81 745 186];
-            app.Image.ImageSource = '2.JPG';
+            app.Image.ImageSource = 'InputSample.JPG';
 
             % Create InsertthevalueforbasecoordinatesystemvectorxyzLabel_2
             app.InsertthevalueforbasecoordinatesystemvectorxyzLabel_2 = uilabel(app.Panel_4);
