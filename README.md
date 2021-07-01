@@ -28,3 +28,5 @@ Procedures taken to solve the homework
     Calculate the Denavit Hartenberg parameter by converting quaternion to rotation matrix getting theta and alpha from RotMat getting distance d and a from the input vector
     Connect all links together
     Plot figure
+    
+    ![alt text](https://github.com/KaiLiOng/Robotertechnik_SS21/blob/Media/DHApp.jpeg?raw=true)
