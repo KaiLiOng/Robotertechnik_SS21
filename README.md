@@ -30,4 +30,3 @@ COMPULSORY HOMEWORK ROBOT TECHNOLOGY SS21
  	7. Plot figure
     
     ![alt text](https://github.com/KaiLiOng/Robotertechnik_SS21/blob/main/Media/DHApp.JPG)
-    ![alt text](https://github.com/KaiLiOng/Robotertechnik_SS21/blob/main/Media/Robotertechnik_SS21_DH_DL_KL.mkv)
